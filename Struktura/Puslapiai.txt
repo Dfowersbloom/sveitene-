@@ -1,0 +1,5 @@
+- Titulinis (Hero, Kolekcijos, Populiariausi produktai, Pristatymas, Atsiliepimai)
+- Parduotuvė (filtrai, produktai)
+- Paslaugos (vestuvės, prenumerata, įmonėms)
+- Apie mus
+- Kontaktai

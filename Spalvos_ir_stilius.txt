@@ -1,0 +1,9 @@
+Spalvų schema:
+- Pastelinė rožinė: #FADADD
+- Šviesi alyvinė: #E6DAF5
+- Tamsus tekstas: #333333
+- Fonas: #FDFDFD
+
+Šriftai:
+- Antraštėms: Cormorant Garamond
+- Tekstui: Open Sans
